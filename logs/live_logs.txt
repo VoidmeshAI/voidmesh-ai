@@ -1,0 +1,179 @@
+2026-05-12 11:51:20,377 BTCUSDT ERROR: could not convert string to float: 'm'
+2026-05-12 11:51:21,604 ETHUSDT ERROR: could not convert string to float: 'm'
+2026-05-12 11:51:22,831 SOLUSDT ERROR: could not convert string to float: 'm'
+2026-05-12 11:51:24,061 XRPUSDT ERROR: could not convert string to float: 'm'
+2026-05-12 11:57:09,915 BTCUSDT ERROR: could not convert string to float: 'm'
+2026-05-12 11:57:11,107 ETHUSDT ERROR: could not convert string to float: 'm'
+2026-05-12 11:57:12,334 SOLUSDT ERROR: could not convert string to float: 'm'
+2026-05-12 11:57:13,594 XRPUSDT ERROR: could not convert string to float: 'm'
+2026-05-12 11:57:14,792 DOGEUSDT ERROR: could not convert string to float: 'm'
+2026-05-12 11:58:41,530 BTCUSDT ERROR: could not convert string to float: 'm'
+2026-05-12 11:58:42,754 ETHUSDT ERROR: could not convert string to float: 'm'
+2026-05-12 11:58:43,982 SOLUSDT ERROR: could not convert string to float: 'm'
+2026-05-12 11:58:45,205 XRPUSDT ERROR: could not convert string to float: 'm'
+2026-05-12 11:58:46,438 DOGEUSDT ERROR: could not convert string to float: 'm'
+2026-05-12 12:00:39,226 BTCUSDT ERROR: could not convert string to float: 'm'
+2026-05-12 12:00:40,407 ETHUSDT ERROR: could not convert string to float: 'm'
+2026-05-12 12:00:41,644 SOLUSDT ERROR: could not convert string to float: 'm'
+2026-05-12 12:00:42,876 XRPUSDT ERROR: could not convert string to float: 'm'
+2026-05-12 12:00:44,302 DOGEUSDT ERROR: could not convert string to float: 'm'
+2026-05-12 12:07:51,937 BTCUSDT ERROR: -1
+2026-05-12 12:07:53,264 ETHUSDT ERROR: -1
+2026-05-12 12:07:54,473 SOLUSDT ERROR: -1
+2026-05-12 12:07:55,727 XRPUSDT ERROR: -1
+2026-05-12 12:07:56,961 DOGEUSDT ERROR: -1
+2026-05-12 12:14:24,082 BTCUSDT ERROR: -1
+2026-05-12 12:14:25,365 ETHUSDT ERROR: -1
+2026-05-12 12:14:26,600 SOLUSDT ERROR: -1
+2026-05-12 12:14:27,824 XRPUSDT ERROR: -1
+2026-05-12 12:14:29,071 DOGEUSDT ERROR: -1
+2026-05-12 12:16:25,156 BTCUSDT ERROR: -1
+2026-05-12 12:16:26,506 ETHUSDT ERROR: -1
+2026-05-12 12:16:27,731 SOLUSDT ERROR: -1
+2026-05-12 12:16:28,970 XRPUSDT ERROR: -1
+2026-05-12 12:16:30,193 DOGEUSDT ERROR: -1
+2026-05-12 12:19:50,497 BTCUSDT ERROR: -1
+2026-05-12 12:19:51,725 ETHUSDT ERROR: -1
+2026-05-12 12:19:52,954 SOLUSDT ERROR: -1
+2026-05-12 12:19:54,186 XRPUSDT ERROR: -1
+2026-05-12 12:19:55,415 DOGEUSDT ERROR: -1
+2026-05-12 12:21:04,598 BTCUSDT | SELL | 95% | STRONG_BEARISH
+2026-05-12 12:21:07,036 ETHUSDT | SELL | 95% | STRONG_BEARISH
+2026-05-12 12:21:53,984 BTCUSDT | SELL | 95% | STRONG_BEARISH
+2026-05-12 12:21:56,339 ETHUSDT | SELL | 95% | STRONG_BEARISH
+2026-05-12 12:22:01,355 DOGEUSDT | SELL | 80% | STRONG_BEARISH
+2026-05-12 12:25:48,892 BTCUSDT | SELL | 95% | STRONG_BEARISH
+2026-05-12 12:25:51,241 ETHUSDT | SELL | 95% | STRONG_BEARISH
+2026-05-12 12:25:56,162 DOGEUSDT | SELL | 80% | STRONG_BEARISH
+2026-05-12 12:52:32,994 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 12:52:35,348 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 12:52:37,661 SOLUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 13:35:17,252 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 13:35:19,287 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 13:35:21,383 SOLUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 13:35:22,585 XRPUSDT ERROR: 'NoneType' object is not subscriptable
+2026-05-12 13:35:23,765 DOGEUSDT ERROR: 'NoneType' object is not subscriptable
+2026-05-12 15:17:11,448 BTCUSDT ERROR: feature_names mismatch: ['confidence', 'trend', 'btc_state', 'regime', 'rr', 'rsi', 'macd', 'macd_signal', 'atr', 'ema_distance', 'volume_spike', 'orderflow_bias', 'orderflow_strength', 'liquidity_signal', 'liquidity_strength'] ['confidence', 'trend', 'btc_state', 'regime', 'rr']
+expected ema_distance, orderflow_bias, macd_signal, volume_spike, liquidity_signal, liquidity_strength, atr, rsi, macd, orderflow_strength in input data
+2026-05-12 15:17:12,667 ETHUSDT ERROR: feature_names mismatch: ['confidence', 'trend', 'btc_state', 'regime', 'rr', 'rsi', 'macd', 'macd_signal', 'atr', 'ema_distance', 'volume_spike', 'orderflow_bias', 'orderflow_strength', 'liquidity_signal', 'liquidity_strength'] ['confidence', 'trend', 'btc_state', 'regime', 'rr']
+expected ema_distance, orderflow_bias, macd_signal, volume_spike, liquidity_signal, liquidity_strength, atr, rsi, macd, orderflow_strength in input data
+2026-05-12 15:17:13,892 SOLUSDT ERROR: feature_names mismatch: ['confidence', 'trend', 'btc_state', 'regime', 'rr', 'rsi', 'macd', 'macd_signal', 'atr', 'ema_distance', 'volume_spike', 'orderflow_bias', 'orderflow_strength', 'liquidity_signal', 'liquidity_strength'] ['confidence', 'trend', 'btc_state', 'regime', 'rr']
+expected ema_distance, orderflow_bias, macd_signal, volume_spike, liquidity_signal, liquidity_strength, atr, rsi, macd, orderflow_strength in input data
+2026-05-12 15:17:15,129 XRPUSDT ERROR: 'NoneType' object is not subscriptable
+2026-05-12 15:17:16,359 DOGEUSDT ERROR: feature_names mismatch: ['confidence', 'trend', 'btc_state', 'regime', 'rr', 'rsi', 'macd', 'macd_signal', 'atr', 'ema_distance', 'volume_spike', 'orderflow_bias', 'orderflow_strength', 'liquidity_signal', 'liquidity_strength'] ['confidence', 'trend', 'btc_state', 'regime', 'rr']
+expected ema_distance, orderflow_bias, macd_signal, volume_spike, liquidity_signal, liquidity_strength, atr, rsi, macd, orderflow_strength in input data
+2026-05-12 15:22:24,397 BTCUSDT ERROR: predict_trade_probability() takes 1 positional argument but 5 were given
+2026-05-12 15:22:25,600 ETHUSDT ERROR: predict_trade_probability() takes 1 positional argument but 5 were given
+2026-05-12 15:22:26,824 SOLUSDT ERROR: predict_trade_probability() takes 1 positional argument but 5 were given
+2026-05-12 15:22:28,055 XRPUSDT ERROR: 'NoneType' object is not subscriptable
+2026-05-12 15:22:29,301 DOGEUSDT ERROR: predict_trade_probability() takes 1 positional argument but 5 were given
+2026-05-12 15:22:57,879 BTCUSDT ERROR: predict_trade_probability() takes 1 positional argument but 5 were given
+2026-05-12 15:22:59,109 ETHUSDT ERROR: predict_trade_probability() takes 1 positional argument but 5 were given
+2026-05-12 15:23:00,335 SOLUSDT ERROR: predict_trade_probability() takes 1 positional argument but 5 were given
+2026-05-12 15:23:01,568 XRPUSDT ERROR: 'NoneType' object is not subscriptable
+2026-05-12 15:23:02,794 DOGEUSDT ERROR: predict_trade_probability() takes 1 positional argument but 5 were given
+2026-05-12 15:27:14,053 BTCUSDT ERROR: predict_trade_probability() takes 1 positional argument but 5 were given
+2026-05-12 15:27:15,301 ETHUSDT ERROR: predict_trade_probability() takes 1 positional argument but 5 were given
+2026-05-12 15:27:16,521 SOLUSDT ERROR: predict_trade_probability() takes 1 positional argument but 5 were given
+2026-05-12 15:27:17,736 XRPUSDT ERROR: 'NoneType' object is not subscriptable
+2026-05-12 15:27:18,979 DOGEUSDT ERROR: predict_trade_probability() takes 1 positional argument but 5 were given
+2026-05-12 15:27:38,540 BTCUSDT ERROR: predict_trade_probability() takes 1 positional argument but 5 were given
+2026-05-12 15:27:39,764 ETHUSDT ERROR: predict_trade_probability() takes 1 positional argument but 5 were given
+2026-05-12 15:27:40,995 SOLUSDT ERROR: predict_trade_probability() takes 1 positional argument but 5 were given
+2026-05-12 15:27:42,224 XRPUSDT ERROR: 'NoneType' object is not subscriptable
+2026-05-12 15:27:43,451 DOGEUSDT ERROR: predict_trade_probability() takes 1 positional argument but 5 were given
+2026-05-12 15:32:38,141 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:32:40,391 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:32:42,702 SOLUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:32:46,203 DOGEUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:35:45,536 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:35:47,784 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:35:50,039 SOLUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:35:53,520 DOGEUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:39:48,630 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:39:50,878 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:39:53,369 SOLUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:39:57,021 DOGEUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:44:18,247 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:44:20,541 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:44:22,844 SOLUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:44:26,330 DOGEUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:46:39,775 BTCUSDT ERROR: cannot access local variable 'final_ai_score' where it is not associated with a value
+2026-05-12 15:46:40,999 ETHUSDT ERROR: cannot access local variable 'final_ai_score' where it is not associated with a value
+2026-05-12 15:46:42,233 SOLUSDT ERROR: cannot access local variable 'final_ai_score' where it is not associated with a value
+2026-05-12 15:46:43,460 XRPUSDT ERROR: cannot access local variable 'final_ai_score' where it is not associated with a value
+2026-05-12 15:46:44,691 DOGEUSDT ERROR: cannot access local variable 'final_ai_score' where it is not associated with a value
+2026-05-12 15:53:05,805 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:53:08,047 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:53:10,307 SOLUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:53:13,779 DOGEUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:55:25,881 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:55:28,239 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:55:30,492 SOLUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 15:55:33,975 DOGEUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:33:43,264 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:33:45,828 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:33:48,384 SOLUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:33:50,623 XRPUSDT | SELL | 78% | STRONG_BEARISH
+2026-05-12 20:33:53,096 DOGEUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:41:06,345 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:41:17,405 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:41:19,982 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:41:22,514 SOLUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:41:25,004 XRPUSDT | SELL | 78% | STRONG_BEARISH
+2026-05-12 20:41:27,644 DOGEUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:45:29,829 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:45:32,276 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:45:34,646 SOLUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:45:37,158 XRPUSDT | SELL | 78% | STRONG_BEARISH
+2026-05-12 20:50:39,781 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:50:42,551 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:50:45,111 SOLUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:50:47,564 XRPUSDT | SELL | 78% | STRONG_BEARISH
+2026-05-12 20:50:49,915 DOGEUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:53:03,145 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:53:05,813 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:53:08,363 SOLUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:53:10,817 XRPUSDT | SELL | 78% | STRONG_BEARISH
+2026-05-12 20:53:13,278 DOGEUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:58:46,102 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:58:48,557 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 20:58:51,012 SOLUSDT | SELL | 78% | STRONG_BEARISH
+2026-05-12 20:58:53,374 XRPUSDT | SELL | 78% | STRONG_BEARISH
+2026-05-12 20:58:55,847 DOGEUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 21:02:08,187 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 21:02:11,031 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 21:02:13,912 SOLUSDT | SELL | 78% | STRONG_BEARISH
+2026-05-12 21:02:16,760 XRPUSDT | SELL | 78% | STRONG_BEARISH
+2026-05-12 21:02:19,736 DOGEUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 21:43:41,010 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 21:43:43,070 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 21:43:45,115 SOLUSDT | SELL | 78% | STRONG_BEARISH
+2026-05-12 21:43:47,180 XRPUSDT | SELL | 78% | STRONG_BEARISH
+2026-05-12 21:43:49,529 DOGEUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 21:54:32,628 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 21:54:34,708 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 21:54:37,203 SOLUSDT | SELL | 78% | STRONG_BEARISH
+2026-05-12 21:54:39,621 XRPUSDT | SELL | 78% | STRONG_BEARISH
+2026-05-12 21:54:42,110 DOGEUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 22:22:47,931 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 22:22:50,002 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 22:22:52,080 SOLUSDT | SELL | 78% | STRONG_BEARISH
+2026-05-12 22:22:54,117 XRPUSDT | SELL | 78% | STRONG_BEARISH
+2026-05-12 22:22:56,169 DOGEUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 23:28:25,792 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 23:28:28,127 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 23:28:30,382 SOLUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 23:28:32,733 XRPUSDT | SELL | 78% | STRONG_BEARISH
+2026-05-12 23:28:34,988 DOGEUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 23:47:55,381 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-12 23:47:57,632 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-13 00:32:30,968 BTCUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-13 00:32:33,425 ETHUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-13 00:32:35,678 SOLUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-13 00:32:37,924 XRPUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-13 00:32:40,277 DOGEUSDT | SELL | 81% | STRONG_BEARISH
+2026-05-13 15:02:17,110 ETHUSDT | BUY | 81% | STRONG_BULLISH
+2026-05-13 15:02:19,458 SOLUSDT | BUY | 81% | STRONG_BULLISH
+2026-05-13 15:02:22,122 XRPUSDT | BUY | 81% | STRONG_BULLISH
+2026-05-13 15:02:24,888 DOGEUSDT | BUY | 81% | STRONG_BULLISH
