@@ -1588,5 +1588,50 @@
         "tp": 0.1163,
         "rr": 3.0,
         "time": "2026-05-13 15:02:24.888278"
+    },
+    {
+        "signal_id": "ETHUSDT_1778668241",
+        "symbol": "ETHUSDT",
+        "signal": "BUY",
+        "confidence": 81,
+        "trend": "BULLISH",
+        "btc_state": "STRONG_BULLISH",
+        "volatility": "LOW_VOLATILITY",
+        "regime": "TRENDING",
+        "entry": 2310.4,
+        "sl": 2297.195,
+        "tp": 2350.015,
+        "rr": 3.0,
+        "time": "2026-05-13 16:00:42.841116"
+    },
+    {
+        "signal_id": "XRPUSDT_1778668245",
+        "symbol": "XRPUSDT",
+        "signal": "BUY",
+        "confidence": 81,
+        "trend": "BULLISH",
+        "btc_state": "STRONG_BULLISH",
+        "volatility": "LOW_VOLATILITY",
+        "regime": "TRENDING",
+        "entry": 1.458,
+        "sl": 1.4518,
+        "tp": 1.4766,
+        "rr": 3.0,
+        "time": "2026-05-13 16:00:46.206097"
+    },
+    {
+        "signal_id": "DOGEUSDT_1778668247",
+        "symbol": "DOGEUSDT",
+        "signal": "BUY",
+        "confidence": 78,
+        "trend": "BULLISH",
+        "btc_state": "STRONG_BULLISH",
+        "volatility": "MEDIUM_VOLATILITY",
+        "regime": "TRENDING",
+        "entry": 0.1138,
+        "sl": 0.1122,
+        "tp": 0.1186,
+        "rr": 3.0,
+        "time": "2026-05-13 16:00:48.354582"
     }
 ]

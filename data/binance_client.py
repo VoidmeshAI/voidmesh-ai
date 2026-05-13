@@ -1,10 +1,12 @@
-from binance.client import Client
+# ==========================================
+# FILE: data/binance_client.py
+# ==========================================
 
-client = Client()
+from rich import print
 
 
 def get_klines(symbol="BTCUSDT", interval="15m", limit=200):
 
-    klines = client.get_klines(symbol=symbol, interval=interval, limit=limit)
+    print(f"\n[bold yellow]" f"BINANCE CLOUD DISABLED:" f"[/bold yellow] " f"{symbol}")
 
-    return klines
+    return []
