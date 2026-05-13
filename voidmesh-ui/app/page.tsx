@@ -5,7 +5,7 @@ import { useEffect, useState } from "react"
 async function getLeaderboard() {
 
   const res = await fetch(
-    "http://127.0.0.1:8000/leaderboard",
+    "https://voidmesh-ai.onrender.com/leaderboard",
     {
       cache: "no-store"
     }
@@ -32,7 +32,7 @@ export default function Home() {
     // ==========================================
 
     const socket = new WebSocket(
-      "ws://127.0.0.1:8000/ws"
+      "wss://voidmesh-ai.onrender.com/ws"
     )
 
     socket.onmessage = (event) => {
