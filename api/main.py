@@ -14,9 +14,17 @@ from papertrade.portfolio import portfolio
 
 from dashboard_utils.heatmap_data import generate_heatmap
 
-from fastapi import WebSocket
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 
 # ==========================================
