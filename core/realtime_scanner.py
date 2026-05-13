@@ -274,7 +274,7 @@ def run_realtime_scan(symbol):
 
         last_signals[symbol] = signal
 
-        place_order(symbol, signal, position_size)
+        # place_order(symbol, signal, position_size)
 
         copy_trade("VOIDMESH_AI", symbol, signal, trade_setup["entry"])
 
